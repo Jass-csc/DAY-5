@@ -8,7 +8,7 @@ After knowing this topic , first coming question in our mind.
 This is a basic knowledge but sometimes we don't know the exact meaning of troubleshooting, here is the answer of this question,
 Troubleshooting is the process of identifying, diagnosing, and resolving problems or issues—especially with systems, machines, or software.
 In simple terms: Troubleshooting means figuring out what’s wrong and how to fix it.
-
+---
 💽 What is an HDD?
 HDD (Hard Disk Drive) is a type of storage device used in computers to store data permanently—even when the computer is turned off.
 
@@ -21,7 +21,7 @@ HDD (Hard Disk Drive) is a type of storage device used in computers to store dat
 3. SCSI (Small Computer System Interface): SCSI (Small Computer System Interface).
 4.  SAS (Serial Attached SCSI): Faster and more durable than SATA. Used in data centers and high-performance servers.
 5. USB (External HDDs): Portable drives connected via USB. Used for backups and extra storage.
-
+---
 🖥️ Based on Usage Type:
 
 1. Desktop HDD:  General use: documents, apps, games.
@@ -30,11 +30,11 @@ HDD (Hard Disk Drive) is a type of storage device used in computers to store dat
 4.  Surveillance HDD: Optimized for continuous video recording (CCTV).
 5. Enterprise HDD:  High reliability, used in data centers and servers.
 6.  Gaming HDD: Higher speed (7200 RPM), designed for loading large game files faster.
-
+---
   # :star: HDD Form Factors
 (Form Factor)3.5 inch: (usage)Desktop computers
 (form factor)2.5 inch: (usage)Laptops, compact PCs
-
+---
 ## 🧠 1. Performance Issues
 
 | Problem         | Cause                                 | Possible Fix                                 |
@@ -113,7 +113,7 @@ HDD (Hard Disk Drive) is a type of storage device used in computers to store dat
 6. 💾 Backup Your Data Regularly.
 7. 🔌 Disable Auto-Run for USB Devices.
 8.  🧠 Stay Informed & Be Cautious.
-
+---
 
 ## BSOD (BLACK SCREEN OF DEATH): 
 
@@ -146,7 +146,7 @@ It's a sign that something went very wrong at the hardware or low-level software
         PAGE_FAULT_IN_NONPAGED_AREA
 
     Windows restarts automatically unless disabled.
-
+---
   🛠️ How to Fix BSOD (Step-by-Step):
 ✅ 1. Note the Error Code
 
@@ -191,7 +191,7 @@ Use Windows Defender or Malwarebytes to rule out infections.
 ⚙️ 7. Update BIOS/Firmware (Advanced)
 
 Go to your motherboard or laptop manufacturer’s website to check for BIOS updates.
-
+---
 
 📌 Tips to Prevent BSOD:
 
@@ -205,3 +205,4 @@ Go to your motherboard or laptop manufacturer’s website to check for BIOS upda
 
     Keep your PC clean and cool to avoid overheating.
     
+---
